@@ -1,5 +1,6 @@
 # web_scrapper
-Scrap web using python <br>
-Author: Prem
+<b><u>Scrap web using python</u></b>
 
-code: wiki scrapper.py
+<br>
+<h3>wiki scrapper.py</h3>
+Scrap webpage to get a wikitable of highest grossing films from Wikipedia.
