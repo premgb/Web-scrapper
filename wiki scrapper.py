@@ -1,3 +1,7 @@
+#############################################################################
+# scrap webpage to get a wikitable of highest grossing films from Wikipedia #
+#############################################################################
+#
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
